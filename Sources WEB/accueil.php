@@ -103,7 +103,7 @@
 
 				    <div class="col-sm-3">
 				      <div class="col-padding alert alert-info" style="height: 280px;">
-				       <a href="suivi.php"> <h3 class="alert alert-success" style="color: black;">Consulter l'état de vos demandes</h3>
+				       <a href="suivi.php"> <h3 class="alert alert-success" style="color: black;">Consulter l'état de vos demandes VANLOO</h3>
 				        <img class="img-responsive" src="supp1.png"> </a>
 				      </div>
 				    </div>
