@@ -1,6 +1,6 @@
 <?php
 	include_once('fonction_glpi.php');
-
+//Adrien
 ?>
 <!DOCTYPE html>
 <html >
